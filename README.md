@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jay!👋
+
+-📚 I'm currently studying BSc(Hons) in Computer Science at Queen's University Belfast.
+-🌱 I’m currently trying to learn more about coding with GitHub.
+-💬 You are always welcome to connect with me!
 
 <!--
 **Jingwen0515/Jingwen0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
